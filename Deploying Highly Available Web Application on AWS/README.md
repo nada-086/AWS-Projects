@@ -15,7 +15,7 @@ This project demonstrates the deployment of a highly available and fault-toleran
 ### 2. **Route Tables**
 - Configured for both public and private subnets to manage traffic flow effectively.
 #### **Public Subnets Route Table**
-    ![Route Table for Public Subnets](./img/public-route-table.png)
+![Route Table for Public Subnets](./img/public-route-table.png)
 #### **Private Subnets Route Tables**
 ![Route Table for Private Subnet 1](./img/private-route-table-1.png)
 ![Route Table for Private Subnet 2](./img/private-route-table-2.png)
