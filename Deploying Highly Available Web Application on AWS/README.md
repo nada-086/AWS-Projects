@@ -16,6 +16,7 @@ A **custom VPC** is designed to host both **public** and **private** subnets acr
 - **Private Subnets:** Houses **backend EC2 instances**, ensuring security and isolation.
 
 📸 **VPC and Subnet Diagrams:**
+
 ![VPC](./img/vpc.png)
 ![Subnets](./img/subnets.png)
 
