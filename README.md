@@ -20,4 +20,5 @@ Throughout this repository, I have worked with several AWS services, including b
 - Document and share learnings for future reference.
 
 ## Projects
-- ![Deploying Highly Available Web Application](./Deploying%20Highly%20Available%20Web%20Application%20on%20AWS/README.md)
+- [Deploying Highly Available Web Application](./Deploying%20Highly%20Available%20Web%20Application%20on%20AWS/README.md)
+- [Deploying Java Application](./Deploying%20Java%20Application%20on%20AWS/README.md)
