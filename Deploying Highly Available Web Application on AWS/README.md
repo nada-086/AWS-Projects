@@ -16,6 +16,7 @@ This project demonstrates the deployment of a highly available and fault-toleran
 - Configured for both public and private subnets to manage traffic flow effectively.
 #### **Public Subnets Route Table**
 ![Route Table for Public Subnets](./img/public-route-table.png)
+
 #### **Private Subnets Route Tables**
 ![Route Table for Private Subnet 1](./img/private-route-table-1.png)
 ![Route Table for Private Subnet 2](./img/private-route-table-2.png)
@@ -23,6 +24,7 @@ This project demonstrates the deployment of a highly available and fault-toleran
 ### 3. **Gateways**
 - **Internet Gateway:** Allows communication between public subnets and the internet.
 ![Internet Gateway](./img/internet-gateway.png)
+
 - **NAT Gateways:** Provides secure internet access for private subnets.
 ![NAT Gateway A](./img/nat-gateway-a.png)
 ![NAT Gateway B](./img/nat-gateway-b.png)
@@ -44,4 +46,3 @@ This project demonstrates the deployment of a highly available and fault-toleran
 - Configured to enforce strict access controls and protect resources from unauthorized access.
 ![Security Group to enable Web Traffic to EC2 Instances](./img/security-group-1.png)
 ![Security Group for the Auto Scaler](./img/security-group-2.png)
-
