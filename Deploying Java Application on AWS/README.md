@@ -14,7 +14,7 @@ Security groups are configured to manage communication between instances and ser
 
 ✅ **Elastic Load Balancer Security Group**
 The load balancer acts as a proxy for the application, accepting incoming traffic on port **80 (HTTP)**.
-![Elastic Load Balancer Security Group](./img/elbv2-security-group.png)
+![Elastic Load Balancer Security Group](./img/elb-security-group.png)
 
 ✅ **Tomcat Security Group**
 The Tomcat server hosts the Java application and only accepts traffic from the Elastic Load Balancer.
